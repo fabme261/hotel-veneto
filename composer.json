@@ -1,0 +1,20 @@
+{
+    "name": "vagrant/progetto_esame",
+    "description": "progetto per esame",
+    "type": "project",
+    "license": "CC",
+    "autoload": {
+        "psr-4": {
+            "Vagrant\\ProgettoEsame\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fabiana",
+            "email": "fabianamecca@yahoo.it"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.0"
+    }
+}
